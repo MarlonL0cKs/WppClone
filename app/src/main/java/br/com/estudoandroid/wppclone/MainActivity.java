@@ -17,8 +17,6 @@ public class MainActivity extends Activity implements View.OnClickListener {
 
     private String[] permissoesSolicitadas = new String[]{
             Manifest.permission.SEND_SMS,
-            // Manifest.permission.INTERNET,
-            // Manifest.permission.BATTERY_STATS
     };
 
 
