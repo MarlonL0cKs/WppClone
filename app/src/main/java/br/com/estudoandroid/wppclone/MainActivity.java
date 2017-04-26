@@ -18,7 +18,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
     private String[] permissoesSolicitadas = new String[]{
             Manifest.permission.SEND_SMS,
     };
-
+// TESTE DE ALTERAÇÃO
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
