@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margem20">20dp</dimen>
+    <dimen name="wLogoLogin">250dp</dimen>
+    <dimen name="hLogoLogin">250dp</dimen>
+    <dimen name="height50dp">50dp</dimen>
+    <dimen name="textoTitulos">20sp</dimen>
+</resources>
