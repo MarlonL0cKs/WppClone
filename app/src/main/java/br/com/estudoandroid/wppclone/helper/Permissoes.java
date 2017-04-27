@@ -11,6 +11,7 @@ import java.util.List;
 
 /**
  * Created by Marlon on 23/04/2017.
+ * Verifica a versão do SDK android e valida as permições
  */
 
 public class Permissoes {
